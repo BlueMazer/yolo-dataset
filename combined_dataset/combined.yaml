@@ -1,6 +1,6 @@
-train: combined_dataset\train\images
-val: combined_dataset\valid\images
-test: combined_dataset\test\images
+train: train\images
+val: valid\images
+test: test\images
 
 nc: 4
 names: ['bottle', 'rock_hammer', 'orange_hammer', 'aruco_tag']

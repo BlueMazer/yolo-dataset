@@ -5,7 +5,7 @@ import sys
 # ----------------------------
 # CONFIG
 # ----------------------------
-MODEL_PATH = "best.pt"   # change to last.pt if needed
+MODEL_PATH = "runs\detect\train7\weights\best.pt"   # change to last.pt if needed
 SOURCE = 0               # 0 = webcam, or put image path, video path, or folder
 
 # ----------------------------
