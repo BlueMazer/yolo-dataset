@@ -1,6 +1,0 @@
-train: train\images
-val: valid\images
-test: test\images
-
-nc: 4
-names: ['bottle', 'rock_hammer', 'orange_hammer', 'aruco_tag']
